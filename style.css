@@ -1,0 +1,105 @@
+ 
+ body{
+
+    background-image: url(IMAGES/LOGO\ MUSIC\ \(2\).gif);
+    background-image: url(IMAGES/LOGO\ MUSIC\ \(2\).gif);
+    
+   }
+   html{
+      scroll-behavior: smooth;
+   }
+  
+    body{
+    background: #080808;
+    
+   }
+   .heading
+   {
+    display: flex;
+   
+    transform: translate(100px,100px);
+   }
+
+   .contact{
+      background-color:rgba(0, 195, 255, 0.897);
+      text-align: center;
+
+   }
+   *{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+   }
+
+   .top{
+      display: flex;
+      justify-content: flex-end;
+      gap: 70px;
+      background-color: rgba(0, 195, 255, 0.897);
+      position: fixed;
+      width: 99.5%;
+      height: 70px;
+      
+   }
+   
+   .img{
+      float: right;
+      position: absolute;
+   top: 500;
+    left: 1000;
+    height: 500px;
+    
+   }
+   
+   .me{
+      height:- 20%;
+      display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+   }
+   .whole{
+      transform: translate(100px,100px);
+   }
+ .work{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+
+ }
+   
+ .uhh{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+
+ }
+
+ .this{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+
+ }
+
+ .personal{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+
+ }
+
+ .you{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+
+ }
+
+ .hit{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ 
+ }
